@@ -10,6 +10,7 @@ namespace Meteo_Console_App
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
