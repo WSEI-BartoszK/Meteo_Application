@@ -74,7 +74,7 @@ namespace Meteo_Console_App
             }
             else if (weatherForecast.IsSuccess == 0)
             {
-                Console.WriteLine("[!] error:");
+                Console.WriteLine("[!] error:" + weatherForecast.ErrorMessage);
                 Console.WriteLine("Sprawdź czy miasto jest na liście - Menu [2].");
                 Console.WriteLine("Lub sprwadź czy podałeś nazwę miasta poprawnie: bez spacji i polskich znaków.");
             }

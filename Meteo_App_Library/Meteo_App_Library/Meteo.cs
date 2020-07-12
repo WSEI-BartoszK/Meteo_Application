@@ -11,13 +11,21 @@ namespace Meteo_App_Library
         // sample usage: https://danepubliczne.imgw.pl/api/data/synop/station/krakow
         private const string BaseUrl = "https://danepubliczne.imgw.pl/api/data/synop/station/";
         private const string AllCitiesURL = "https://danepubliczne.imgw.pl/api/data/synop";
-
+        /// <summary>
+        /// Request URL generator
+        /// </summary>
+        /// <param name="city_name"></param>
+        /// <returns>formated URL</returns>
         public static string UrlCreator(string city_name)
         {
             // api is case sensitive city name needs to be lower case
             return BaseUrl + WebUtility.UrlEncode(city_name.ToLower()) + "/";
         }
-
+        /// <summary>
+        /// Get weather data from remote server
+        /// </summary>
+        /// <param name="city_name"></param>
+        /// <returns>WeatherForecast Object</returns>
         public static WeatherForecast GetData(string city_name)
         {
             WeatherForecast wc = new WeatherForecast()
@@ -52,7 +60,10 @@ namespace Meteo_App_Library
 
             return wc;
         }
-
+        /// <summary>
+        /// Get all possible values from remote API
+        /// </summary>
+        /// <returns>WeatherForecast List</returns>
         public static List<WeatherForecast> GetAllCities()
         {
             List<WeatherForecast> allCities = new List<WeatherForecast>();

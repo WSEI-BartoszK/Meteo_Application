@@ -12,3 +12,17 @@ D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo
 D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.csproj.CopyComplete
 D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.exe
 D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.pdb
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Text.Encodings.Web.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Text.Json.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.ValueTuple.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Buffers.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Memory.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Numerics.Vectors.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Text.Encodings.Web.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Text.Json.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.ValueTuple.xml
