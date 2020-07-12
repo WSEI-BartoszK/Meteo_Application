@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteo_App_Library", "Meteo_App_Library\Meteo_App_Library.csproj", "{8DDA1F91-3CCF-4B77-BF86-E2176F3F3200}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Meteo_Console_App", "Meteo_Console_App\Meteo_Console_App.csproj", "{9BAA3994-2748-43AB-BD70-50EC60616FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DDA1F91-3CCF-4B77-BF86-E2176F3F3200}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DDA1F91-3CCF-4B77-BF86-E2176F3F3200}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DDA1F91-3CCF-4B77-BF86-E2176F3F3200}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DDA1F91-3CCF-4B77-BF86-E2176F3F3200}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAA3994-2748-43AB-BD70-50EC60616FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAA3994-2748-43AB-BD70-50EC60616FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAA3994-2748-43AB-BD70-50EC60616FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAA3994-2748-43AB-BD70-50EC60616FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09B357E9-2C1F-448D-AB03-FC46BADC6553}
+	EndGlobalSection
+EndGlobal
