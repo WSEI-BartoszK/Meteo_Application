@@ -5,7 +5,7 @@ using System.Text.Json;
 
 namespace Meteo_App_Library
 {
-    class Meteo
+    public class Meteo
     {
         // based on https://danepubliczne.imgw.pl/
         // sample usage: https://danepubliczne.imgw.pl/api/data/synop/station/krakow

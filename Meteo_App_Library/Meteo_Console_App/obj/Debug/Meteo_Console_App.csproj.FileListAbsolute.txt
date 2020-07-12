@@ -1,0 +1,14 @@
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Meteo_Console_App.exe.config
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Meteo_Console_App.exe
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Meteo_Console_App.pdb
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Meteo_App_Library.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Memory.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Numerics.Vectors.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\System.Buffers.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\bin\Debug\Meteo_App_Library.pdb
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.csprojAssemblyReference.cache
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.csproj.CoreCompileInputs.cache
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.csproj.CopyComplete
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.exe
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_Console_App\obj\Debug\Meteo_Console_App.pdb

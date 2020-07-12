@@ -49,5 +49,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Meteo_App_Library\Meteo_App_Library.csproj">
+      <Project>{8DDA1F91-3CCF-4B77-BF86-E2176F3F3200}</Project>
+      <Name>Meteo_App_Library</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
