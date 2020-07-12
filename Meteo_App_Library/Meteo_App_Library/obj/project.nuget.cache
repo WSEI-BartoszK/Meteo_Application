@@ -1,11 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "+o1dj94D6Vqzc+rvzZYxCnNFdMGyYkt+T7Yz0ZQ/tmyjapc76RA+oNQjiUGZUyY69ZHfH51dXToXQgtrd4Vyyw==",
+  "dgSpecHash": "Rlnoti87FMcXl2fnOqta2oNjcatLTg0pAkGKSx95lLCPf9v237YGuSf71BdALNfz37qv5Hh0eyYzeV+xdGSr/g==",
   "success": true,
   "projectFilePath": "D:\\WSEI\\C#\\Meteo_Application\\Meteo_App_Library\\Meteo_App_Library\\Meteo_App_Library.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\barto\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.0.0\\microsoft.bcl.asyncinterfaces.1.0.0.nupkg.sha512",
     "C:\\Users\\barto\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\barto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\barto\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.buffers\\4.5.0\\system.buffers.4.5.0.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.6.20305.6\\system.runtime.compilerservices.unsafe.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.text.encodings.web\\5.0.0-preview.6.20305.6\\system.text.encodings.web.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.text.json\\5.0.0-preview.6.20305.6\\system.text.json.5.0.0-preview.6.20305.6.nupkg.sha512",
+    "C:\\Users\\barto\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 using System.Net;
 using System.Text.Json;
 
@@ -81,4 +80,5 @@ namespace Meteo_App_Library
 
             return allCities;
         }
+    }
 }

@@ -1,0 +1,5 @@
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_App_Library\bin\Debug\netstandard2.0\Meteo_App_Library.deps.json
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_App_Library\bin\Debug\netstandard2.0\Meteo_App_Library.dll
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_App_Library\obj\Debug\netstandard2.0\Meteo_App_Library.csprojAssemblyReference.cache
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_App_Library\obj\Debug\netstandard2.0\Meteo_App_Library.AssemblyInfoInputs.cache
+D:\WSEI\C#\Meteo_Application\Meteo_App_Library\Meteo_App_Library\obj\Debug\netstandard2.0\Meteo_App_Library.AssemblyInfo.cs
